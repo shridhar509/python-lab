@@ -1,4 +1,5 @@
-# hello.py
+# hello.py # This is a test comment
+
 def main():
     names = input("Enter your names (comma-separated): ").split(',')
     for name in names:
